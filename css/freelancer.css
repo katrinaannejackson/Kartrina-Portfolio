@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat';
+  font-family: 'Amarillo';
 }
 
 hr.star-light,
@@ -44,12 +44,12 @@ hr.star-dark:after {
 }
 
 hr.star-light {
-  border-color: #fff;
+  border-color: #ecb38c;
 }
 
 hr.star-light:after {
-  color: #fff;
-  background-color: #18BC9C;
+  color: #f8e4b7;
+  background-color: #54cac3;
 }
 
 hr.star-dark {
@@ -348,11 +348,11 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #54cac3 !important;
 }
 
 .bg-secondary {
-  background-color: #2C3E50 !important;
+  background-color: #738588 !important;
 }
 
 .text-primary {
